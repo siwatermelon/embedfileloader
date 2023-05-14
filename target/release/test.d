@@ -1,0 +1,1 @@
+C:\Users\fuck-ubuntu\Desktop\test\loader\target\release\test.exe: C:\Users\fuck-ubuntu\Desktop\test\loader\build.rs C:\Users\fuck-ubuntu\Desktop\test\loader\src\main.rs C:\Users\fuck-ubuntu\Desktop\test\loader\tep\aaa.exe C:\Users\fuck-ubuntu\Desktop\test\loader\tep\test.rtf

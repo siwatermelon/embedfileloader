@@ -1,4 +1,0 @@
-Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
-Copyright (C) Microsoft Corporation.  All rights reserved.
-
-cargo:rustc-link-arg-bins=C:\Users\fuck-ubuntu\Desktop\test\loader\target\release\build\test-88ed09baf0377679\out/icon.lib

@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\fuck-ubuntu\Desktop\test\loader\target\release\build\typenum-7c2ce971d139cba8\out\consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\fuck-ubuntu\Desktop\test\loader\target\release\build\typenum-7c2ce971d139cba8\out\op.rs

